@@ -66,7 +66,7 @@ Notes application built using React with backend API integration.
 
 ## 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/gaurav-singh-a04350333/)) • [Portfolio](YOUR_PORTFOLIO_URL)
 
 ---
 
