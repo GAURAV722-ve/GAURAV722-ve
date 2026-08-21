@@ -1,73 +1,115 @@
-# Hi there, I'm Gaurav Singh 👋
+Hi there, I'm Gaurav Singh 👋
 
-### 💻 B.Tech CSE Student | Full Stack Developer | DSA Enthusiast
+💻 B.Tech CSE Student | Full Stack Developer | DSA Enthusiast
 
 📍 Ghaziabad, Uttar Pradesh, India
 
-I'm a Computer Science Engineering student passionate about building
-web applications, solving DSA problems, and learning new technologies.
+I'm a Computer Science Engineering student passionate about building web applications, solving Data Structures and Algorithms problems, and learning new technologies.
 
-- 🔭 I'm currently working on full-stack web development projects
-- 🌱 I'm currently learning React, Node.js, Express.js and MongoDB
-- 💻 I practice Data Structures and Algorithms regularly
-- 🚀 I'm interested in MERN Stack development
-- 🤝 I'm looking to collaborate on interesting software projects
-- 💬 Ask me about C++, DSA, React, JavaScript and MERN Stack
+🔭 Currently working on full-stack web development projects
 
----
+🌱 Currently learning React, Node.js, Express.js and MongoDB
 
-## 🛠️ Skills
+💻 Practicing Data Structures and Algorithms regularly
 
-### Languages
-C++ | Java | Python | JavaScript
+🚀 Interested in MERN Stack development
 
-### Frontend
-HTML | CSS | JavaScript | React | Tailwind CSS
+🤝 Looking to collaborate on interesting software projects
 
-### Backend
-Node.js | Express.js | REST APIs
+💬 Ask me about C++, DSA, React, JavaScript and MERN Stack
 
-### Database
-MongoDB | MySQL
+🔗 Connect With Me
 
-### Tools
-Git | GitHub | VS Code
+<p align="left">
+  <a href="https://www.linkedin.com/in/gaurav-singh-a04350333/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/GAURAV722-ve/Portfolio-Gaurav_Singh" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" alt="Portfolio"/>
+  </a>
+  <a href="https://leetcode.com/u/gaurav722-ve/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+  <a href="https://drive.google.com/drive/folders/1NGh8Im7FGiWcBWxXTstjUAbjK2FBj5lc?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-red?style=for-the-badge&logo=googledrive" alt="Resume"/>
+  </a>
+</p>
 
----
+🛠️ Tech Stack
 
-## 🚀 Featured Projects
+Languages
 
-### 🛒 E-Commerce Website
-Full-stack e-commerce application using React, Node.js, Express and MongoDB.
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+</p>
 
-### 🎓 College ERP System
-Student management system with student, teacher and admin modules.
+Frontend
 
-### 📝 React Notes App
-Notes application built using React with backend API integration.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
----
+Backend & Database
 
-## 📊 GitHub Stats
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAURAV722-ve&show_icons=true&theme=dark)
+Tools
 
-## 🔥 GitHub Streak
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=GAURAV722-ve&theme=dark)
+🚀 Featured Projects
 
----
+🛒 E-Commerce Website
 
-## 📈 Most Used Languages
+Full-stack e-commerce application built with React, Node.js, Express and MongoDB.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV722-ve&layout=compact&theme=dark)
+🎓 College ERP / Student Management System
 
----
+A student management platform with student, teacher and admin modules, attendance, marks, notices and assignments.
 
-## 🤝 Connect With Me
+📝 React Notes App
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/gaurav-singh-a04350333/)) • [Portfolio](YOUR_PORTFOLIO_URL)
+A React-based notes application with API integration and a backend service.
 
----
+💻 Data Structures & Algorithms
+
+Collection of C++ implementations and solutions for DSA and competitive programming problems.
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GAURAV722-ve&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV722-ve&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=GAURAV722-ve&theme=tokyonight&hide_border=true" />
+</p>
+
+🧠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/gaurav722-ve/">
+    <img src="https://leetcard.jacoblin.cool/gaurav722-ve?theme=dark&font=baloo&ext=heatmap" alt="Gaurav's LeetCode Stats"/>
+  </a>
+</p>
+
+📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GAURAV722-ve&theme=tokyo-night&hide_border=true" />
+</p>
+
+📫 Contact
+
+Feel free to connect with me through LinkedIn or check out my portfolio and resume.
 
 ⭐ If you find my projects useful, consider giving them a star!
+
+Thanks for visiting my profile! 🚀
