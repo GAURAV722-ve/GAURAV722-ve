@@ -79,17 +79,19 @@ A React-based notes application with API integration and a backend service.
 
 Collection of C++ implementations and solutions for DSA and competitive programming problems.
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GAURAV722-ve&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV722-ve&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GAURAV722-ve&show_icons=true&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV722-ve&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-🔥 GitHub Streak
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GAURAV722-ve&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=GAURAV722-ve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 🧠 LeetCode
