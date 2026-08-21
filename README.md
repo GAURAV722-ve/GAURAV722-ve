@@ -82,30 +82,34 @@ Collection of C++ implementations and solutions for DSA and competitive programm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GAURAV722-ve&show_icons=true&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV722-ve&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GAURAV722-ve&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV722-ve&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GAURAV722-ve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=GAURAV722-ve&theme=tokyonight&hide_border=true" />
 </p>
 
-🧠 LeetCode
+## 🧠 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/gaurav722-ve/">
-    <img src="https://leetcard.jacoblin.cool/gaurav722-ve?theme=dark&font=baloo&ext=heatmap" alt="Gaurav's LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/gaurav722-ve?theme=dark&font=baloo&ext=heatmap" />
   </a>
 </p>
 
-📈 Contribution Graph
+---
+
+## 🚀 GitHub
+
+Check out my repositories and contributions below.
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GAURAV722-ve&theme=tokyo-night&hide_border=true" />
+  <a href="https://github.com/GAURAV722-ve">
+    <img src="https://img.shields.io/badge/GitHub-GAURAV722--ve-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 📫 Contact
