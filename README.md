@@ -138,10 +138,6 @@ I'm actively improving my problem-solving skills through regular practice.
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV722-ve&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GAURAV722-ve&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
