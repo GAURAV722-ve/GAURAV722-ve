@@ -148,6 +148,22 @@ I'm actively improving my problem-solving skills through regular practice.
 
 ---
 
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/gaurav722-ve/">
+    <img src="https://leetcard.jacoblin.cool/gaurav722-ve?theme=dark&font=Karma&ext=heatmap" width="70%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/gaurav722-ve/">
+    <img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
 ## 🎯 My Current Goals
 
 * 🚀 Become a strong **Full-Stack Developer**
