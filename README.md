@@ -1,108 +1,183 @@
-Hi there, I'm Gaurav Singh 👋
+# 👋 Hi, I'm Gaurav Singh
 
-💻 B.Tech CSE Student | Full Stack Developer | DSA Enthusiast
+### 💻 CSE Student | Full-Stack Developer | DSA Enthusiast
 
-📍 Ghaziabad, Uttar Pradesh, India
+I'm a **B.Tech 3rd Year Computer Science & Engineering student at ABES Engineering College**, passionate about software development, problem solving, and building real-world applications.
 
-I'm a Computer Science Engineering student passionate about building web applications, solving Data Structures and Algorithms problems, and learning new technologies.
+I enjoy working with modern web technologies, practicing **Data Structures & Algorithms**, and continuously learning new technologies to become a better software developer.
 
-🔭 Currently working on full-stack web development projects
+---
 
-🌱 Currently learning React, Node.js, Express.js and MongoDB
+## 🌐 My Portfolio
 
-💻 Practicing Data Structures and Algorithms regularly
+### 🚀 Visit my Portfolio
 
-🚀 Interested in MERN Stack development
+**[🔗 Explore My Portfolio](https://portfolio-gaurav-singh.vercel.app/)**
 
-🤝 Looking to collaborate on interesting software projects
+> Explore my projects, skills, experience, and development journey.
 
-💬 Ask me about C++, DSA, React, JavaScript and MERN Stack
+---
 
-🔗 Connect With Me
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gaurav-singh-a04350333/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/GAURAV722-ve/Portfolio-Gaurav_Singh" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github" alt="Portfolio"/>
-  </a>
-  <a href="https://leetcode.com/u/gaurav722-ve/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-  </a>
-  <a href="https://drive.google.com/drive/folders/1NGh8Im7FGiWcBWxXTstjUAbjK2FBj5lc?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-red?style=for-the-badge&logo=googledrive" alt="Resume"/>
-  </a>
-</p>
+* 🎓 **B.Tech 3rd Year — Computer Science & Engineering**
+* 🏫 **ABES Engineering College**
+* 💻 Interested in **Full-Stack Web Development**
+* 🧠 Practicing **Data Structures & Algorithms**
+* ⚛️ Building projects using **React.js**
+* 🔧 Learning and working with **Node.js & Express.js**
+* 🗄️ Working with **MongoDB**
+* 🤖 Exploring **AI/ML**
+* 🚀 Always learning and building new projects
 
-🛠️ Tech Stack
+---
 
-Languages
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-Frontend
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-Backend & Database
+### ⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-Tools
+### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-🚀 Featured Projects
+---
 
-🛒 E-Commerce Website
+## 🚀 Featured Projects
 
-Full-stack e-commerce application built with React, Node.js, Express and MongoDB.
+### 🎓 College ERP / Student Management System
 
-🎓 College ERP / Student Management System
+A full-stack web application designed to manage college activities such as:
 
-A student management platform with student, teacher and admin modules, attendance, marks, notices and assignments.
+* 👨‍🎓 Student management
+* 👨‍🏫 Teacher management
+* 📊 Attendance tracking
+* 📝 Marks and results
+* 📢 College notices
+* 📚 Assignment submission
 
-📝 React Notes App
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB
 
-A React-based notes application with API integration and a backend service.
+---
 
-💻 Data Structures & Algorithms
+### 📝 React Notes Application
 
-Collection of C++ implementations and solutions for DSA and competitive programming problems.
+A web-based notes application built with React and backend API integration for creating and managing notes.
 
-## 🧠 LeetCode
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB
+
+---
+
+### 🌐 Personal Portfolio
+
+A modern personal portfolio website showcasing my:
+
+* Skills
+* Projects
+* Education
+* Development journey
+* Contact information
+
+🔗 **Live Portfolio:**
+https://portfolio-gaurav-singh.vercel.app/
+
+---
+
+## 🧠 DSA & Problem Solving
+
+I'm actively improving my problem-solving skills through regular practice.
+
+### Topics I Practice
+
+* Arrays & Strings
+* Searching & Sorting
+* Linked Lists
+* Stack & Queue
+* Hashing
+* Recursion & Backtracking
+* Trees
+* Graphs
+* Dynamic Programming
+* Greedy Algorithms
+
+### 💡 Coding Platforms
+
+* 💻 **LeetCode**
+* 🏆 **CodeChef**
+* 🧩 **GeeksforGeeks**
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GAURAV722-ve&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV722-ve&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🎯 My Current Goals
+
+* 🚀 Become a strong **Full-Stack Developer**
+* 🧠 Improve **DSA & problem-solving skills**
+* ⚛️ Master modern **React.js development**
+* 🔧 Build scalable backend applications
+* 🤖 Explore **AI/ML technologies**
+* 💼 Prepare for **software development internships & placements**
+* 🌍 Contribute to meaningful **open-source projects**
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://portfolio-gaurav-singh.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/gaurav-singh-a04350333/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
   <a href="https://leetcode.com/u/gaurav722-ve/">
-    <img src="https://leetcard.jacoblin.cool/gaurav722-ve?theme=dark&font=baloo&ext=heatmap" />
+    <img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🚀 GitHub
+## ⭐ Thanks for Visiting!
 
-Check out my repositories and contributions below.
+Thanks for stopping by my GitHub profile!
 
-<p align="center">
-  <a href="https://github.com/GAURAV722-ve">
-    <img src="https://img.shields.io/badge/GitHub-GAURAV722--ve-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+**💻 Code • 🚀 Build • 🧠 Learn • 🔥 Grow**
 
-📫 Contact
-
-Feel free to connect with me through LinkedIn or check out my portfolio and resume.
-
-⭐ If you find my projects useful, consider giving them a star!
-
-Thanks for visiting my profile! 🚀
+### Let's build something amazing together! 🚀
